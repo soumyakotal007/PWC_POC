@@ -1,0 +1,2 @@
+set path=C:\RND_TASK\SOFTWARE\JDK8_144_FINAL\bin
+java -jar C:\PWCViewer\PWCViewer.jar "%1"
